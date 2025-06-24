@@ -1,0 +1,33 @@
+.caption
+{
+    padding: 1.5em;
+
+    h2
+    {
+        color: white;
+    }
+}
+
+.section-search
+{
+
+    input
+    {
+        padding: 5px !important;
+        font-size: 1.5em !important;
+        width: 90% !important;
+        border: 3px solid #F4F4F4 !important;
+    }
+}
+
+.section-follow
+{
+    a
+    {
+        margin: 0em 1em;
+    }
+}
+
+html {
+  scroll-behavior: smooth;
+}
